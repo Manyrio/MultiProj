@@ -1,0 +1,41 @@
+--[[
+GOAL:
+Cooperative live coding environment.
+
+Show multi projects
+press errors to the command line
+
+download projects from server
+upload projects to server
+
+Reference:
+wiki
+tutorials
+
+Helper tools:
+IRC
+gallery to choose files to load
+.lua file comparison
+image editor
+
+
+Todo:
+can't convert frames to new GUI without
+scale implementation
+most of this can be removed by moving it to GUI
+
+Context-aware middle mouse button:
+	on canvas:
+	 start new project
+	 open project
+	 import project
+	 
+	on project:
+		reload project
+		duplicate project
+		new file
+		new dir
+		new image
+
+
+]]
